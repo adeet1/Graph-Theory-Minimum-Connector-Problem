@@ -216,7 +216,6 @@ while True:
 
     # This is the adjacency table representing the graph.
     # The first step in the program would be to display the table in a much neater form: an array (using numpy).
-    # The program then calculates the number of vertices in the graph, storing the result in the variable "n."
     
     print(np.array(table))
     print('')
